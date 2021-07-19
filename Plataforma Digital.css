@@ -1,0 +1,198 @@
+html,body {
+    font-family: Barlow,sans-serif;
+    font-size: 95%;
+    font-weight: 400!important;
+    line-height: normal
+}
+
+.mod-indent-outer {
+    width: 100%;
+}
+.dashboard-card-deck .dashboard-card .dashboard-card-img {
+    border-radius: 6px 6px 0px 0px;
+}
+
+/*Supporter*/
+
+.row-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.btn-group .btn {
+    background-color: #d9dbe4;
+}
+
+/*rodapé*/
+.bg-dark {
+    background-color: #14183B !important;
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+/*Topo*/
+#navbar_main {
+    background-color: #14183B !important;
+    color: rgba(255, 255, 255, 0.7) !important;
+    /*background: url(https://docs.google.com/uc?id=1IwQKMmg_7dT0U9WJWyDfKMzweoqi_qOD);*/
+background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%);
+    background-size: cover;
+}
+
+
+/*barra lateral*/
+#navfixed {
+    background-color: #14183B !important;
+}
+
+
+#navfixed .list-group-item-action {
+    background-color: #a52320 !important;
+    background-color: #14183B !important;
+}
+
+#navfixed .list-group-item-action:hover {
+  background-color: #873b74 !important;
+  color: #ffffff !important;
+}
+
+
+/*barra lat surgir*/
+#nav-drawer {
+    background: #14183B!important;
+}
+
+#nav-drawer .list-group {
+    background-color: #14183B !important;
+}
+
+
+.sidebar-wrapper .sidebar-menu ul li a i {
+    margin-right: 10px;
+    font-size: 12px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 4px;
+color:#ffffff;
+}
+
+#nav-drawer .list-group-item {
+    background-color: #14183b !important;
+    color: #fff;
+}
+
+#nav-drawer .media-left i {
+    color: #DC0A84 !important;
+}
+
+.chiller-theme .sidebar-wrapper {
+    background: #14183b;
+}
+
+.sidebar-wrapper i {
+    color: white;
+    font-size: 1.1em;
+}
+
+#nav-drawer .list-group-item[data-key="sitesettings"] {
+    background-color: #6e76801f !important;
+}
+
+
+/*Menu Horinzontal*/
+#blocosuptiles {
+    margin-bottom: 30px;
+    font-size: 1.5em;
+    padding-right: 0px;
+    padding:20px
+}
+
+#blocosuptiles .list-group #linktrilha {
+    background-color: #2A1D82;
+}
+
+#blocosuptiles .list-group #linkseusacessos {
+    background-color: #0070a9;
+    background-color: #542978;
+}
+
+#blocosuptiles .list-group #linklista {
+    background-color: #dc0a84;
+}
+/*_______________________________________________*/
+
+
+.format-tiles .course-content ul.tiles .tile:hover,
+.format-tiles .course-content ul.tiles .tile_bar:hover {
+  border-top-color: #e754a9 !important;
+}
+
+@media screen and (max-width: 600px){
+.format-tiles .course-content ul.tiles .tile:not(.spacer) {
+    min-height: 140px;
+justify-content: center; 
+}
+}
+
+@media (max-width:600px){
+#navfixed {
+    border-radius: 0!important;
+    display: none;!important;
+}
+}
+
+
+@media screen and (max-width: 600px){
+.format-tiles #page.container-fluid, .path-course-view li.activity > div {
+    padding: 10px 0px 0px 0px!important;
+}
+}
+
+@media screen and (max-width: 600px){
+div#page-content, #page-header{
+    margin-left: 0px!important; 
+    margin-top: 0px!important;
+    margin-right: 0px!important;
+}
+}
+
+@media screen and (max-width: 600px){
+.format-tiles .course-content ul.tiles .tile {
+    margin: 5px!important;
+}
+}
+
+.format-tiles li.activity.subtile .activitytitle a {
+background-image:none
+}
+
+@media screen and (max-width: 600px){
+.format-tiles .course-content ul.tiles .tile:not(.spacer) {
+    min-height: 140px;
+}
+}
+
+@media screen and (max-width: 600px){
+.format-tiles .course-content .section {
+    margin-left: 0 !important;
+    background-color: #fff;
+    background: transparent;
+}
+}
+
+#page-my-index section {
+     padding-right: 0px!important;
+     padding-left: 0px!important; 
+}
+
+.chiller-theme .sidebar-wrapper ul li:hover a i, .chiller-theme .sidebar-wrapper .sidebar-dropdown .sidebar-submenu li a:hover:before, .chiller-theme .sidebar-wrapper .sidebar-search input.search-menu:focus + span, .chiller-theme .sidebar-wrapper .sidebar-menu .sidebar-dropdown.active a i {
+    color: #df307a !important;
+    text-shadow: 0px 0px 10px rgb(22 199 255 / 50%);
+}
+#loginon #region-main > div > div.row.justify-content-center > div > div {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px !important;
+    margin: 0px -30px;
+}
