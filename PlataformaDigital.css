@@ -124,6 +124,11 @@ color:#ffffff;
 /*_______________________________________________*/
 
 
+.format-tiles li.activity.subtile.quiz {
+    border-top-color: #e754a9;
+}
+
+
 .format-tiles .course-content ul.tiles .tile:hover,
 .format-tiles .course-content ul.tiles .tile_bar:hover {
   border-top-color: #e754a9 !important;
