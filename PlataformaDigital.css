@@ -124,13 +124,6 @@ color:#ffffff;
 /*_______________________________________________*/
 
 
-.format-tiles li.activity.subtile {
-  border-top-color: #e754a9 !important;
-}
-
-.format-tiles li.activity.subtile.page {
-  border-top-color: #e754a9 !important;
-
 
 .format-tiles .course-content ul.tiles .tile:hover,
 .format-tiles .course-content ul.tiles .tile_bar:hover {
