@@ -44,11 +44,15 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
     background-color: #ffffff !important;
 }
 #navfixed i{
-    color:#29476f
+    color:#29476f !important;
 }
 
 #navfixed .list-group-item-action {
     background-color: #ffffff !important;
+}
+
+#navfixed i{
+    color:#29476f !important;
 }
 
 #navfixed .list-group-item-action:hover {
@@ -58,7 +62,7 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 @media (max-width:600px){
 #navfixed {
     border-radius: 0!important;
-    display: none;!important;
+    display: none!important;
 }
 }
 
@@ -70,7 +74,7 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 
 #nav-drawer .list-group-item {
     background-color: #ffffff !important;
-    color: #29476f;
+    color: #29476f  !important;
 }
 
 
@@ -85,7 +89,6 @@ background-color: #29476f !important;
 
 #nav-drawer .lihover:hover i {
 color: #ffffff !important;
-
 }
 
 /*Menu Horinzontal (trilha)*/
