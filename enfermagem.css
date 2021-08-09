@@ -74,7 +74,7 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 
 #nav-drawer .list-group-item {
     background-color: #ffffff !important;
-    color: #29476f  !important;
+    color: #29476f;
 }
 
 
