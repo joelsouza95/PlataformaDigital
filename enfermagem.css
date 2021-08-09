@@ -51,82 +51,13 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 }
 
 #navfixed .list-group-item-action:hover {
-  background-color: #873b74 !important;
+  background-color: #95c495 !important;
 }
 
 
 /*barra lat surgir*/
-#nav-drawer {
-    background: #ffffff!important;
-}
-
-#nav-drawer .list-group {
-    background-color: #ffffff !important;
-color: #14183B !important;
-}
-
-#nav-drawer .list-group-item {
-    background-color: #ffffff !important;
-    color: #14183B;
-}
-#nav-drawer .active {
-    background-color: rgba(255, 255, 255, 0.7) !important;
-    color: #a52320;
-}
-#nav-drawer .list-group-item {
-    background-color: #a52320 !important;
-    color: #14183B;
-}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.sidebar-wrapper .sidebar-menu ul li a i {
-    margin-right: 10px;
-    font-size: 12px;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    text-align: center;
-    border-radius: 4px;
-    color:#14183B !important;
-}
-
-#nav-drawer .list-group-item {
-    background-color: #ffffff !important;
-    color: #14183b !important;
-    
-}
-
-#nav-drawer .media-left i {
-    color: #DC0A84 !important;
-}
-
-.chiller-theme .sidebar-wrapper {
-    background: #14183b;
-}
-
-.sidebar-wrapper i {
-    color: white;
-    font-size: 1.1em;
-}
-
-#nav-drawer .list-group-item[data-key="sitesettings"] {
-    background-color: #6e76801f !important;
-}
 
 
 /*Menu Horinzontal (trilha)*/
