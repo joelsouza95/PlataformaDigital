@@ -27,13 +27,13 @@
 
 /*rodapé*/
 .bg-dark {
-    background-color: #14183B !important;
-    color: rgba(255, 255, 255, 0.7) !important;
+    background-color: #ffffff !important;
+    color: #ffffffb3 !important;
 }
 /*Topo*/
 #navbar_main {
     background-color: #14183B !important;
-    color: rgba(255, 255, 255, 0.7) !important;
+    color: #ffffffb3 !important;
     /*background: url(https://docs.google.com/uc?id=1IwQKMmg_7dT0U9WJWyDfKMzweoqi_qOD);*/
 background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%);
     background-size: cover;
@@ -42,12 +42,12 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 
 /*barra lateral*/
 #navfixed {
-    background-color: #14183B !important;
+    background-color: #ffffff !important;
 }
 
 
 #navfixed .list-group-item-action {
-    background-color: #14183B !important;
+    background-color: #ffffff !important;
 }
 
 #navfixed .list-group-item-action:hover {
@@ -63,6 +63,7 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 
 #nav-drawer .list-group {
     background-color: #ffffff !important;
+color: #14183B !important;
 }
 
 
