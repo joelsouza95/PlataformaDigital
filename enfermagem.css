@@ -27,7 +27,7 @@
 
 /*rodapé*/
 .bg-dark {
-    background-color: #ffffff !important;
+    background-color: #14183B !important;
     color: #ffffffb3 !important;
 }
 /*Topo*/
@@ -52,7 +52,6 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 
 #navfixed .list-group-item-action:hover {
   background-color: #873b74 !important;
-  color: #ffffff !important;
 }
 
 
@@ -80,7 +79,8 @@ color:#ffffff;
 
 #nav-drawer .list-group-item {
     background-color: #ffffff !important;
-    color: #fff;
+    color: #14183b;
+    
 }
 
 #nav-drawer .media-left i {
