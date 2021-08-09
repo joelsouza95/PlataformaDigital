@@ -39,26 +39,54 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
     background-size: cover;
 }
 
-
 /*barra lateral*/
 #navfixed {
     background-color: #ffffff !important;
 }
-
+#navfixed i{
+    color:#29476f
+}
 
 #navfixed .list-group-item-action {
     background-color: #ffffff !important;
 }
 
 #navfixed .list-group-item-action:hover {
-  background-color: #95c495 !important;
+  background-color: #29476f !important;
+}
+
+@media (max-width:600px){
+#navfixed {
+    border-radius: 0!important;
+    display: none;!important;
+}
 }
 
 
 /*barra lat surgir*/
+#nav-drawer {
+    background: #ffffff !important;
+}
+
+#nav-drawer .list-group-item {
+    background-color: #ffffff !important;
+    color: #29476f;
+}
 
 
+#nav-drawer .media i{
+    color:#29476f !important;
+}
 
+#nav-drawer .lihover:hover a {
+background-color: #29476f !important;
+}
+
+
+#nav-drawer .lihover:hover i {
+color: #ffffff !important;
+
+}
 
 /*Menu Horinzontal (trilha)*/
 #blocosuptiles {
@@ -82,7 +110,7 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 /*_______________________________________________*/
 
 
-
+/*blocos da sala */
 .format-tiles .course-content ul.tiles .tile:hover,
 .format-tiles .course-content ul.tiles .tile_bar:hover {
   border-top-color: #e754a9 !important;
@@ -92,13 +120,6 @@ background: -webkit-linear-gradient(left, rgb(40,71,110) 0%,rgb(223,48,122) 100%
 .format-tiles .course-content ul.tiles .tile:not(.spacer) {
     min-height: 140px;
 justify-content: center; 
-}
-}
-
-@media (max-width:600px){
-#navfixed {
-    border-radius: 0!important;
-    display: none;!important;
 }
 }
 
