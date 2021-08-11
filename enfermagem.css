@@ -114,6 +114,10 @@ color: #ffffff !important;
 
 
 /*blocos da sala */
+.card-img, .card-img-top, .card-img-bottom {
+    border-radius: 6px 6px 0px 0px;
+}
+
 .format-tiles .course-content ul.tiles .tile:hover,
 .format-tiles .course-content ul.tiles .tile_bar:hover {
   border-top-color: #e754a9 !important;
