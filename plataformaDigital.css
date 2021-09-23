@@ -124,10 +124,13 @@ color:#ffffff;
 /*_______________________________________________*/
 
 /*---------------Blocos das Menu---------------- */
-.card-title.d-inline {
-    font-weight: bold !important;
+.card-title, .d-inline {
     font-weight: bolder !important;
 }
+
+/*.card-title.d-inline {
+    font-weight: bolder !important;
+}*/
 
 
 /*---------------Blocos das Sala---------------- */
