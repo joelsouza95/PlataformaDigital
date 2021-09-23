@@ -123,6 +123,13 @@ color:#ffffff;
 }
 /*_______________________________________________*/
 
+/*---------------Blocos das Menu---------------- */
+.card-title.d-inline {
+    font-weight: bold;
+    font-weight: bolder;
+}
+
+
 /*---------------Blocos das Sala---------------- */
 .card-img, .card-img-top, .card-img-bottom {
     border-radius: 6px 6px 0px 0px;
