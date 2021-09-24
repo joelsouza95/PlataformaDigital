@@ -134,15 +134,6 @@ color:#ffffff;
     box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
 }
 
-[data-region="blocks-column"] {
-    padding: 20px 20px 20px 20px;
-    width: 360px;
-    float: right;
-    height: 100%!important;
-}
-
-
-
 /*---------------Blocos das Sala---------------- */
 .card-img, .card-img-top, .card-img-bottom {
     border-radius: 6px 6px 0px 0px;
