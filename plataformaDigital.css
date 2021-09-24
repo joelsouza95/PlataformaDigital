@@ -128,10 +128,11 @@ color:#ffffff;
     font-weight: bolder !important;
 }
 
-/*.card-title.d-inline {
-    font-weight: bolder !important;
-}*/
-
+[data-region="blocks-column"] .card {
+    -webkit-border-radius: 10px !important;
+    border-radius: 10px !important;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
+}
 
 /*---------------Blocos das Sala---------------- */
 .card-img, .card-img-top, .card-img-bottom {
